@@ -43,7 +43,7 @@ npm start</code>
 
   <h2>🧠 Environment Variables</h2>
   <pre>
-<code>OPENAI_API_KEY
+<code>GEMINI_API_KEY
 MONGO_URI
 PORT=5000</code>
   </pre>
