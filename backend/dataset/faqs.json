@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What are your business hours?",
+    "answer": "We are available 24/7 through chat support.",
+    "tags": ["hours", "availability"]
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "You can reset your password by clicking 'Forgot Password' on the login page.",
+    "tags": ["password", "account"]
+  },
+  {
+    "question": "Do you offer refunds?",
+    "answer": "Yes, refunds are processed within 5–7 business days after approval.",
+    "tags": ["refund", "payment"]
+  }
+]
