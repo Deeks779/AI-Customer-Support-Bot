@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Customer Support Bot</title>
-</head>
-<body>
+
 
   <h1>🤖 AI Customer Support Bot</h1>
 
@@ -56,4 +49,3 @@ PORT=5000</code>
   </pre>
 
 </body>
-</html>
